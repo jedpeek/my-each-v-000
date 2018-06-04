@@ -1,4 +1,4 @@
-def my_each # put argument(s) here
+def my_each(words) # put argument(s) here
   i = 0
   while i < 10
 
