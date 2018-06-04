@@ -1,3 +1,6 @@
 def my_each # put argument(s) here
-  # code here
+  i = 0
+  while i < 10
+
+  end
 end
